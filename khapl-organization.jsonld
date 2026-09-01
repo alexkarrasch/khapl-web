@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://khapl.com.au/#organization",
+  "name": "Karrasch Hydrotechnical Assessments Pty Ltd",
+  "alternateName": "KHAPL",
+  "url": "https://khapl.com.au/",
+  "logo": "https://khapl.com.au/khapl-logo.svg",
+  "description": "KHAPL provides water resources, site water and waste management engineering services for mining and resource projects in Australia.",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Australian Business Number (ABN)",
+      "value": "25 700 890 400"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Australian Company Number (ACN)",
+      "value": "700 890 400"
+    }
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Alexander Karrasch",
+    "jobTitle": "Principal Civil Engineer",
+    "sameAs": "https://www.linkedin.com/in/akarrasch/"
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Brisbane, Queensland, Australia"
+  },
+  "areaServed": "Australia",
+  "sameAs": [
+    "https://www.linkedin.com/in/akarrasch/"
+  ],
+  "knowsAbout": [
+    "Water balance modelling and accounting",
+    "Site water management",
+    "Waste management",
+    "Hydrology",
+    "Hydraulic analysis and design",
+    "Climate analysis and climate change",
+    "Environmental approvals and strategic advisory",
+    "GIS and digital analysis",
+    "Design model 3D printing"
+  ]
+}
