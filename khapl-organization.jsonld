@@ -3,10 +3,11 @@
   "@type": "Organization",
   "@id": "https://khapl.com.au/#organization",
   "name": "Karrasch Hydrotechnical Assessments Pty Ltd",
+  "legalName": "Karrasch Hydrotechnical Assessments Pty Ltd",
   "alternateName": "KHAPL",
   "url": "https://khapl.com.au/",
   "logo": "https://khapl.com.au/khapl-logo.svg",
-  "description": "KHAPL provides water resources, site water and waste management engineering services for mining and resource projects in Australia.",
+  "description": "Hydraulic, hydrologic, water resources, tailings and associated civil engineering consultancy services for the mining and resources industry.",
   "identifier": [
     {
       "@type": "PropertyValue",
@@ -23,7 +24,7 @@
     "@type": "Person",
     "name": "Alexander Karrasch",
     "jobTitle": "Principal Civil Engineer",
-    "sameAs": "https://www.linkedin.com/in/akarrasch/"
+    "sameAs": "https://www.linkedin.com/in/khapl/"
   },
   "location": {
     "@type": "Place",
@@ -31,17 +32,22 @@
   },
   "areaServed": "Australia",
   "sameAs": [
-    "https://www.linkedin.com/in/akarrasch/"
+    "https://www.linkedin.com/in/khapl/"
   ],
   "knowsAbout": [
-    "Water balance modelling and accounting",
-    "Site water management",
-    "Waste management",
+    "Climate Analysis and Climate Change",
     "Hydrology",
-    "Hydraulic analysis and design",
-    "Climate analysis and climate change",
-    "Environmental approvals and strategic advisory",
-    "GIS and digital analysis",
-    "Design model 3D printing"
+    "Hydraulic Analysis",
+    "Landforms",
+    "Water and Waste Facilities",
+    "Site Water Management",
+    "Water Balance Modelling and Accounting",
+    "Approvals",
+    "Design",
+    "Operation",
+    "Closure",
+    "Spatial and Digital",
+    "3D Models",
+    "Client Advisory"
   ]
 }
