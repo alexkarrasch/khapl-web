@@ -1,6 +1,23 @@
 # Permit ordinary search and user-requested retrieval.
 # Exclude AI model-training and bulk-dataset crawlers where possible.
+# AI search bots below are allowed so the site can appear in AI search answers.
 User-agent: *
+Allow: /
+
+# AI search and user-requested retrieval: allowed
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
 Allow: /
 
 User-agent: GPTBot
